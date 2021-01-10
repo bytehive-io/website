@@ -21,7 +21,7 @@ enable_smart_app_banner                   : true                                
 # Information About Yourself
 your_name                                 : Pascal Schröder                             
 your_link                                 : pascalschroder.com                     
-your_city                                 : Nijmegen                                
+your_city                                 : Frankfurt, Germany                                
 email_address                             : 
 facebook_username                         :                                           
 instagram_username                        : 
@@ -35,24 +35,28 @@ youtube_username                          :
 features                                  :
 
   - title                                 : Intuitive Interface
-    description                           : Easily type notes like messages in the messenger apps we use every day.
+    description                           : Easily type notes like messages in the messenger apps you use every day.
     fontawesome_icon_name                 : magic
     
   - title                                 : Save What You Love
-    description                           : Save links and preview them in the app. Take notes on the stories you love.
+    description                           : Save links from the internet and preview them in the app. Take notes on the stories you love.
     fontawesome_icon_name                 : bookmark
 
   - title                                 : Smart Search
-    description                           : Find your notes in the most intuitive way with natural language recognition of your tags
+    description                           : Find your notes in the most intuitive way with natural language search
     fontawesome_icon_name                 : search
 
   - title                                 : Tag and Forget
-    description                           : Tag your notes when creating them to easily collect and find what's important.
+    description                           : Tag your notes to easily collect and find what's important.
     fontawesome_icon_name                 : tags
 
   - title                                 : Access anywhere
     description                           : Bytehive syncs your data across all your devices.
     fontawesome_icon_name                 : sync
+
+  - title                                 : Privacy Friendly
+    description                           : We will never sell your data to advertisers.
+    fontawesome_icon_name                 : eye
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
