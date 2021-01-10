@@ -123,7 +123,7 @@ Furthermore, you have the full legal right to request from us all personal data 
 
 ## 7.2 Contact Details
 
-You can directly [contact us](mailto:bytehive.io@gmail.com) for any inquiries regarding your data. Since the Bytehive team is based in Germany, you have the right to file a complaint at the German Data Protection Authority under the GDPR, for which contact details can be found as [](https://www.bfdi.bund.de/EN/Service/Contact/contact_node.html).
+You can directly [contact us](mailto:bytehive.io@gmail.com) for any inquiries regarding your data. Since the Bytehive team is based in Germany, you have the right to file a complaint at the [German Data Protection Authority](https://www.bfdi.bund.de/EN/Service/Contact/contact_node.html) under the GDPR.
 
 
 <br>
