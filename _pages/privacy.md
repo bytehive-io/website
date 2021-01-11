@@ -26,7 +26,7 @@ Bytehive is commited to building technology that preserves the rights and privac
 
 ## Terms of Service
 
-This Privacy Policy forms part of our Terms of Service, which describes the terms under which you use our Services and which are available at [LINK]. This Privacy Policy should be read in conjunction with those terms.
+This Privacy Policy forms part of our [Terms of Service](https://bytehive.io/tos), which describes the terms under which you use our Services. This Privacy Policy should be read in conjunction with those terms.
 
 
 <br>
